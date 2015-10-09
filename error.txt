@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+
+
+<body>
+<title>Bucket Fudged</title>
+<h1>Fudged Bucket</h1>
+<p>Bucket Fudge code BFC.
+<p>Message: MSG.
+</body>
+
+</html>
